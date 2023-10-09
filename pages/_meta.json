@@ -1,18 +1,17 @@
 {
-  "index": "Index",
+  "index": {
+    "title": "Index"
+  },
   "---": {
     "type": "separator"
   },
-  "polis": "Polis",
-  "polis#experts": {
-    "title": "Experts",
-    "href": "polis#experts"
+  "polis": {
+    "title": "Polis",
+    "collapsed": false,
+    "theme": {
+      "footer": false
+    }
   },
-  "polis#delegation": { "title": "Delegation", "href": "polis#delegation" },
-  "polis#language-models": { "title": "Language Models", "href": "polis#language-models" },
-  "polis#more-clustering": { "title": "More Clustering", "href": "polis#more-clustering" },
-  "polis#real-world-events": { "title": "Real-world events", "href": "polis#real-world-events" },
-  "polis#polis-deployments": { "title": "Examples", "href": "polis#polis-deployments" },
   "---2": {
     "type": "separator"
   }
