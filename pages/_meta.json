@@ -1,15 +1,19 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "index": "Index",
+  "---": {
+    "type": "separator"
   },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+  "polis": "Polis",
+  "polis#experts": {
+    "title": "Experts",
+    "href": "polis#experts"
+  },
+  "polis#delegation": { "title": "Delegation", "href": "polis#delegation" },
+  "polis#language-models": { "title": "Language Models", "href": "polis#language-models" },
+  "polis#more-clustering": { "title": "More Clustering", "href": "polis#more-clustering" },
+  "polis#real-world-events": { "title": "Real-world events", "href": "polis#real-world-events" },
+  "polis#polis-deployments": { "title": "Examples", "href": "polis#polis-deployments" },
+  "---2": {
+    "type": "separator"
   }
 }
